@@ -49,7 +49,7 @@ To compile and run the game:
 
 ## Acknowledgments
 
-Developed by Axyl Carefoot-Schulz (ID: 201694318) for COMP 2659 under the guidance of instructor Paul Pospisil.
+Developed by Axyl Carefoot-Schulz for COMP 2659 under the guidance of instructor Paul Pospisil.
 
 ## Future Improvements
 
